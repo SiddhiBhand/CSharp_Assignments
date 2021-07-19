@@ -1,0 +1,15 @@
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.exe
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.deps.json
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.runtimeconfig.json
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.runtimeconfig.dev.json
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.dll
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\ref\LINQAssignment.dll
+D:\.Net Programs\LINQAssignment\bin\Debug\net5.0\LINQAssignment.pdb
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.AssemblyInfoInputs.cache
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.AssemblyInfo.cs
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.csproj.CoreCompileInputs.cache
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.dll
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\ref\LINQAssignment.dll
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.pdb
+D:\.Net Programs\LINQAssignment\obj\Debug\net5.0\LINQAssignment.genruntimeconfig.cache
