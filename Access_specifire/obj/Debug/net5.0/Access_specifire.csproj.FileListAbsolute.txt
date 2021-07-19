@@ -1,0 +1,11 @@
+D:\.Net Programs\Access_specifire\bin\Debug\net5.0\Access_specifire.deps.json
+D:\.Net Programs\Access_specifire\bin\Debug\net5.0\Access_specifire.dll
+D:\.Net Programs\Access_specifire\bin\Debug\net5.0\ref\Access_specifire.dll
+D:\.Net Programs\Access_specifire\bin\Debug\net5.0\Access_specifire.pdb
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.AssemblyInfoInputs.cache
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.AssemblyInfo.cs
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.csproj.CoreCompileInputs.cache
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.dll
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\ref\Access_specifire.dll
+D:\.Net Programs\Access_specifire\obj\Debug\net5.0\Access_specifire.pdb

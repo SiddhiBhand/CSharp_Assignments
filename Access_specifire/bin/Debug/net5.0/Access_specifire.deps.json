@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Access_specifire/1.0.0": {
+        "runtime": {
+          "Access_specifire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access_specifire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
