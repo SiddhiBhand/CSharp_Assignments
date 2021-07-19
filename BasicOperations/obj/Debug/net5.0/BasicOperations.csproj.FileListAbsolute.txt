@@ -1,0 +1,16 @@
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.exe
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.deps.json
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.runtimeconfig.json
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.runtimeconfig.dev.json
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.dll
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\ref\BasicOperations.dll
+D:\.Net Programs\BasicOperations\bin\Debug\net5.0\BasicOperations.pdb
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.csproj.AssemblyReference.cache
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfoInputs.cache
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfo.cs
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.csproj.CoreCompileInputs.cache
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.dll
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\ref\BasicOperations.dll
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.pdb
+D:\.Net Programs\BasicOperations\obj\Debug\net5.0\BasicOperations.genruntimeconfig.cache
