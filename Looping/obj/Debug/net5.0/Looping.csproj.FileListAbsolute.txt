@@ -1,0 +1,16 @@
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.exe
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.deps.json
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.runtimeconfig.json
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.runtimeconfig.dev.json
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.dll
+D:\.Net Programs\Looping\bin\Debug\net5.0\ref\Looping.dll
+D:\.Net Programs\Looping\bin\Debug\net5.0\Looping.pdb
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.AssemblyInfoInputs.cache
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.AssemblyInfo.cs
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.csproj.CoreCompileInputs.cache
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.dll
+D:\.Net Programs\Looping\obj\Debug\net5.0\ref\Looping.dll
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.pdb
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.genruntimeconfig.cache
+D:\.Net Programs\Looping\obj\Debug\net5.0\Looping.csproj.AssemblyReference.cache
